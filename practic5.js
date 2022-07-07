@@ -3,7 +3,7 @@
 // Task 1
 
 
-// for (let i = 0; i < 11; i++) {
+// for (let i = 0; i < 10; i++) {
 //   console.log(i + 1);
 // }
 
@@ -11,26 +11,22 @@
 // Task 2
 
 
-// for (let i = 0; i < 11; i++) {
-//   if ((i % 2) === 0) {
-//     console.log('Число парне:', i);
+// for (let i = 1; i < 11; i++) {
+//   if (i % 2 === 1) {
+//     console.log('Число непарне:', i);
 //   }else(
-//     console.log('Число непарне:', i)
+//     console.log('Число парне:', i)
 //   )
 // }
 
 
 // Task 3
 
-
-// let minNum = 20;
-// const maxNum = 28;
-
-// while (minNum < maxNum) {
-//   console.log(minNum);
-//   minNum += 1;
+// let num = 20;
+// while (num < 28) {
+//   num++;
+//   console.log(num);
 // }
-
 
 // Task 4
 
